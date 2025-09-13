@@ -23,7 +23,7 @@ An improved version of Brainf#ck, created in Python. Only built-in libraries. Wr
 
 The interpreter also supports newlines in the code and ignores any text outside of the recognized commands.
 
-#RU
+# RU
 
 # Брейндак
 Улучшенная версия Brainf#ck, созданная на Python. Только встроенные библиотеки. Пишите как настоящий программист (нет)
